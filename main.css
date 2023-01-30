@@ -24,7 +24,7 @@ header {
     font-family: "Roboto Light", curvy, serif;
 }
 
-#link {
+.link {
     color: #0a53be;
     font-size: 30px;
     text-decoration: none;
