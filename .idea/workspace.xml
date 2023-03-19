@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Renaming titles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <updated>1675007441395</updated>
       <workItem from="1675007442720" duration="1156000" />
       <workItem from="1675100387340" duration="138000" />
-      <workItem from="1679132380892" duration="3883000" />
+      <workItem from="1679132380892" duration="4743000" />
     </task>
     <task id="LOCAL-00001" summary="commit from zborstupava-processing">
       <created>1675007714263</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679141882080</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Renaming titles">
+      <created>1679223353855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679223353855</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
