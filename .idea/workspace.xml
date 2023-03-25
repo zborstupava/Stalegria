@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Renaming titles">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nahravky.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahravky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oNas.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repertoar.html" beforeDir="false" afterPath="$PROJECT_DIR$/repertoar.html" afterDir="false" />
-    </list>
+    <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Adding Headings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +44,7 @@
       <workItem from="1675007442720" duration="1156000" />
       <workItem from="1675100387340" duration="138000" />
       <workItem from="1679132380892" duration="5659000" />
-      <workItem from="1679734528206" duration="2793000" />
+      <workItem from="1679734528206" duration="3505000" />
     </task>
     <task id="LOCAL-00001" summary="commit from zborstupava-processing">
       <created>1675007714263</created>
@@ -130,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679735518821</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adding Headings">
+      <created>1679737584044</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679737584044</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +140,7 @@
     <MESSAGE value="commit from zborstupava-processing" />
     <MESSAGE value="Changing the Logo" />
     <MESSAGE value="Renaming titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming titles" />
+    <MESSAGE value="Adding Headings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Headings" />
   </component>
 </project>
