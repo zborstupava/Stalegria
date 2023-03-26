@@ -1,4 +1,7 @@
-/* Domov */
+
+#titleOff {
+    display: none;
+}
 
 #domovForPC {
     width: 100%;
@@ -8,6 +11,14 @@
 
     #domovForPC {
         display: none;
+    }
+
+    #title {
+        display: none;
+    }
+
+    #titleOff {
+        display: block;
     }
 
 }
