@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Adding Headings">
+    <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Recreating gallery">
       <change afterPath="$PROJECT_DIR$/IMGs/Thumbnails/MRGitaraThumb.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/IMGs/gallery/MRGitara.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,7 +56,7 @@
       <workItem from="1675100387340" duration="138000" />
       <workItem from="1679132380892" duration="5659000" />
       <workItem from="1679734528206" duration="4134000" />
-      <workItem from="1679833060340" duration="2381000" />
+      <workItem from="1679833060340" duration="3005000" />
     </task>
     <task id="LOCAL-00001" summary="commit from zborstupava-processing">
       <created>1675007714263</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679836491673</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Recreating gallery">
+      <created>1679837722363</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679837722363</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +182,7 @@
     <MESSAGE value="Changing the Logo" />
     <MESSAGE value="Renaming titles" />
     <MESSAGE value="Adding Headings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Headings" />
+    <MESSAGE value="Recreating gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recreating gallery" />
   </component>
 </project>
