@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Adding Headings">
-      <change beforePath="$PROJECT_DIR$/clenovia.html" beforeDir="false" afterPath="$PROJECT_DIR$/clenovia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMGs/Thumbnails/MRGitaraThumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMGs/gallery/MRGitara.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMGs/Thumbnails/MR gitara thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMGs/gallery/MR gitara.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nahravky.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahravky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oNas.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repertoar.html" beforeDir="false" afterPath="$PROJECT_DIR$/repertoar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsivity.css" beforeDir="false" afterPath="$PROJECT_DIR$/responsivity.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <workItem from="1675100387340" duration="138000" />
       <workItem from="1679132380892" duration="5659000" />
       <workItem from="1679734528206" duration="4134000" />
-      <workItem from="1679833060340" duration="1772000" />
+      <workItem from="1679833060340" duration="2381000" />
     </task>
     <task id="LOCAL-00001" summary="commit from zborstupava-processing">
       <created>1675007714263</created>
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679836172921</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding Headings">
+      <created>1679836491673</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679836491673</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
