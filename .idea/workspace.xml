@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37edef21-bd49-41df-a79c-2a6cec8ea46d" name="Changes" comment="Recreating gallery">
+      <change afterPath="$PROJECT_DIR$/MyCSS/audio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJS/audio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyCSS/Lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LightboxJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyJS/LightboxJS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clenovia.html" beforeDir="false" afterPath="$PROJECT_DIR$/clenovia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyCSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nahravky.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahravky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oNas.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repertoar.html" beforeDir="false" afterPath="$PROJECT_DIR$/repertoar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsivity.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyCSS/responsivity.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +58,7 @@
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Public/Programming/WebSites/SourceAtTheEndOfPresentation",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +66,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Programming\WebSites\ZborStupava\Stalegria\MyCSS" />
+      <recent name="C:\Users\Public\Programming\WebSites\ZborStupava\Stalegria\MyJS" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +87,7 @@
       <workItem from="1679833060340" duration="4335000" />
       <workItem from="1690543576852" duration="5000" />
       <workItem from="1698743672574" duration="19000" />
-      <workItem from="1701534916530" duration="634000" />
+      <workItem from="1701534916530" duration="2177000" />
     </task>
     <task id="LOCAL-00001" summary="commit from zborstupava-processing">
       <created>1675007714263</created>
@@ -195,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1679840577619</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Recreating gallery">
+      <option name="closed" value="true" />
+      <created>1701535737807</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701535737807</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

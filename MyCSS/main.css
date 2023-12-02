@@ -17,7 +17,7 @@ header {
 #shadow {
     margin: 0;
     height: 30px;
-    background-image: linear-gradient(gray, white);
+    background-image: linear-gradient(rgb(128, 128, 128), white);
 }
 
 #main-content {
@@ -38,10 +38,11 @@ nav {
 
 .nav-link {
     padding: 10px;
-    font-size: 16px;
+    font-size: 20px;
     color: #189ab4;
     text-decoration: none;
     font-weight: 800;
+    margin-right: 4px;
 }
 
 .nav-link:hover {
@@ -57,7 +58,7 @@ nav {
     width: 1.5em;
     height: 1.5em;
     vertical-align: middle;
-    background-image: url("IMGs/three-dots-vertical.png");
+    background-image: url("../IMGs/three-dots-vertical.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;

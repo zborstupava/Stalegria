@@ -7,9 +7,11 @@
     <link rel="icon" type="images/x-icon" href="IMGs/stalegriaLogoNoBackground.png"/>
 
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="main.css" rel="stylesheet">
-    <link href="responsivity.css" rel="stylesheet">
+    <link href="MyCSS/main.css" rel="stylesheet">
+    <link href="MyCSS/responsivity.css" rel="stylesheet">
+    <link href="MyCSS/audio.css" rel="stylesheet">
     <script src="js/bootstrap.js"></script>
+    <script src="MyJS/audio.js"></script>
 
 </head>
 <body>
@@ -95,37 +97,58 @@
 
         <div class="col-3" id="recordings">
 
-
-            <div class="audioAndName col-12" style="position: relative;">
-
-                <strong> Sanctus (Olivet) </strong> <br>
-
-                <audio controls>
-                    <source src="Recordings/07_Sanctus_(SaintJacques).mp3" type="audio/mpeg">
-                </audio>
-
+            <div class="audio-container">
+                <div class="audio-player">
+                    <h5>Audio 1</h5>
+                    <button class="play-button" id="playButton1"></button>
+                    <button class="download-button" id="downloadButton1"></button>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" id="progressBarFill1"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-
-            <div class="audioAndName col-12" style="position: relative;">
-
-                <strong> Blahoslavení milosrdní </strong> <br>
-
-                <audio controls>
-                    <source src="Recordings/03_Blahoslaveni_milosrdni.mp3" type="audio/mpeg">
-                </audio>
+            <div class="audio-container">
+                <div class="audio-player">
+                    <h5>Audio 2</h5>
+                    <button class="play-button" id="playButton2"></button>
+                    <button class="download-button" id="downloadButton2"></button>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" id="progressBarFill2"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-
-            <div class="audioAndName col-12" style="position: relative;">
-
-                <strong> Salve Regina </strong> <br>
-
-                <audio controls>
-                    <source src="Recordings/04_Salve_Regina.mp3" type="audio/mpeg">
-                </audio>
-
+            <div class="audio-container">
+                <div class="audio-player">
+                    <h5>Audio 3</h5>
+                    <button class="play-button" id="playButton3"></button>
+                    <button class="download-button" id="downloadButton3"></button>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" id="progressBarFill3"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
+
+            <div class="audio-container">
+                <div class="audio-player">
+                    <h5>Audio 4</h5>
+                    <button class="play-button" id="playButton4"></button>
+                    <button class="download-button" id="downloadButton4"></button>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" id="progressBarFill4"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
         </div>
 
