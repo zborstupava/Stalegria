@@ -1,0 +1,135 @@
+/* Main */
+html {
+    text-align: center;
+    overflow-x: hidden;
+    padding: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+header {
+    display: flex;
+    font-family: "Roboto Light", curvy, serif;
+}
+
+#shadow {
+    margin: 0;
+    height: 30px;
+    background-image: linear-gradient(rgb(128, 128, 128), white);
+}
+
+#main-content {
+    font-family: "Roboto Light", curvy, serif;
+}
+
+.link {
+    color: #0a53be;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+/* Navigation */
+
+nav {
+    text-align: right;
+}
+
+.nav-link {
+    padding: 10px;
+    font-size: 20px;
+    color: #189ab4;
+    text-decoration: none;
+    font-weight: 800;
+    margin-right: 4px;
+}
+
+.nav-link:hover {
+    color: #05445e;
+}
+
+.active {
+    color: #05445e;
+}
+
+#openNavbarMobile {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: url("../IMGs/three-dots-vertical.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#toggleMobileMenu {
+    background: rgba(252, 252, 252, 0.7);
+    text-align: right;
+    margin-left: 0;
+    position: absolute;
+    top: -10px;
+    right: 60px;
+    padding: 45px 10px 0 10px;
+}
+
+.textInSubpage {
+    color: #189ab4;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto Light", curvy, serif;
+}
+
+/* Domov */
+
+.imgDomov {
+    top: -10px;
+}
+
+
+#domovForMOBILE .textInSubpage {
+    margin: 10px;
+}
+
+/* Nahrávky */
+
+audio {
+    background-color: #ffffff;
+}
+
+
+strong {
+    font-size: 20px;
+}
+
+.audioAndName {
+    margin: 60px 0;
+}
+
+#recordings {
+
+    text-align: left;
+
+}
+
+/* Galéria */
+
+#galleryLinks {
+    padding: 50px;
+}
+
+#galleryLinks a {
+    margin: 25px;
+}
+
+#main-content {
+
+}
+
+/* Kontakt */
+
+#mailToJR {
+    color: #0a53be;
+    text-decoration: none;
+}

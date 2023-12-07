@@ -1,0 +1,43 @@
+
+#titleOff {
+    display: none;
+}
+
+#domovForPC {
+    width: 100%;
+}
+
+@media only screen and (max-width: 500px) {
+
+    #domovForPC {
+        display: none;
+    }
+
+    #title {
+        display: none;
+    }
+
+    #titleOff {
+        display: block;
+    }
+
+}
+
+#domovForMOBILE {
+    width: 100%;
+    display: none;
+    text-align: center;
+}
+
+#domovForMOBILE .imgMobile {
+    width: 100%;
+    height: auto;
+}
+
+@media only screen and (max-width: 500px) {
+
+    #domovForMOBILE {
+        display: block;
+    }
+
+}
