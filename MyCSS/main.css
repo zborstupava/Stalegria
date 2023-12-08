@@ -43,10 +43,12 @@ nav {
     text-decoration: none;
     font-weight: 800;
     margin-right: 4px;
+    transition-duration: 0.5s;
 }
 
 .nav-link:hover {
     color: #05445e;
+    transition-duration: 0.5s;
 }
 
 .active {
